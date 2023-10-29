@@ -1,0 +1,5 @@
+bg_color = "#2f343f"
+fg_color = "#99c0de"
+bar_bg = "#404552"
+accent_color = "#5294e2"
+accent_dark = "#2c5380"
